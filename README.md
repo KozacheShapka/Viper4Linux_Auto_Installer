@@ -9,7 +9,8 @@ ViperFX была разработана для улучшения звука н�
 
 
 Установка Viper4Linux: (протестрировано на Ubuntu 20.04 и 22.04), требует права суперпользователя для установки драйверов.
-<code>sudo apt install wget -y && wget -P ~/ https://raw.githubusercontent.com/KozacheShapka/Viper4Linux_Auto_Installer/main/viper4linux_installer.sh && chmod +x viper4linux_installer.sh %% ./viper4linux_installer.sh </code>
+
+<code> sudo apt install wget -y && wget -P ~/ https://raw.githubusercontent.com/KozacheShapka/Viper4Linux_Auto_Installer/main/viper4linux_installer.sh && chmod +x viper4linux_installer.sh %% ./viper4linux_installer.sh </code>
 
 
 Источники:
